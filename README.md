@@ -5,4 +5,4 @@ a clean, automated google sheet template to track your cfop algs and there move 
 
 click on (cfop selfalgs tracker) under releases to find the sheet file that you can download it by clicking on it.
 
-PS: it's better to upload the sheet file to your google sheet so you can reach it on pc or mobile online or offline.
+PS: it's better to upload the sheet file to your google sheet account so you can reach it on pc or mobile online or offline.
